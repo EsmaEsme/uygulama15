@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\U15\U15\bin\Debug\U15.exe.config
+C:\Users\User\source\repos\U15\U15\bin\Debug\U15.exe
+C:\Users\User\source\repos\U15\U15\bin\Debug\U15.pdb
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.Form1.resources
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.Properties.Resources.resources
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.csproj.GenerateResource.cache
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.exe
+C:\Users\User\source\repos\U15\U15\obj\Debug\U15.pdb
